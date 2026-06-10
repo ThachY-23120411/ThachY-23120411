@@ -10,8 +10,7 @@
     <td valign="top" width="60%">
       <h2>🚀 About Me</h2>
       <p>
-        I am a 4th-year <b>Software Engineering</b> student at <b>VNU-HCMUS</b> with a cleared academic schedule, fully committed to driving impactful development workflows.
-      </p>
+        I am a 4th-year <b>Software Engineering</b> student at <b>VNU-HCMUS</b> with a cleared academic schedule, fully committed to driving impactful development workflows.</p>
       <ul>
         <li>💻 <b>Full-stack Web Developer</b> passionate about building robust, high-performance, and scalable web applications.</li>
         <li>🛠️ Proficient in modern web ecosystems: <b>React, Next.js, Node.js (Express), and ASP.NET Core</b>.</li>
@@ -20,11 +19,10 @@
         <li>👥 Proven <b>Team Lead</b> capabilities, managing task distributions, component structures, and deployment pipelines.</li>
       </ul>
       <p>
-        📫 <b>Let's connect:</b> <a href="mailto:thuy99507@gmail.com">thuy99507@gmail.com</a>
-      </p>
+        📫 <b>Let's connect:</b> <a href="mailto:thuy99507@gmail.com">thuy99507@gmail.com</a></p>
     </td>
     <td valign="top" width="40%" align="center">
-      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b80c92359e74efd/1620839849506-646P4KUXS31AG888T2M2/Yeti+Loves+Code.gif" width="100%" style="border-radius: 8px;" alt="Coding Animation"/>
+      <img src="CHÈN_LINK_ẢNH_VÀO_ĐÂY" width="100%" style="border-radius: 8px;" alt="Pixel Art Coding Animation"/>
     </td>
   </tr>
 </table>
@@ -55,51 +53,4 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini_SDK-9B51E0?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
-### 🗄️ Databases & ORMs
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-### 🔧 Tools & DevOps Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-34495E?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 📊 Analytical Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ThachY-23120411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ThachY-23120411&theme=tokyonight&layout=compact&include_all_commits=true&count_private=true" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThachY-23120411&theme=tokyonight" width="99%" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Social Matrix
-<p align="left">
-  <a href="https://www.facebook.com/thach.y.537789" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:thuy99507@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  <img src="
