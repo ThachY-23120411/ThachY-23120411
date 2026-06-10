@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td valign="middle" width="40%" align="center">
-      <img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" width="260" alt="Happy Pixel GIF" style="border-radius: 12px; display: block; margin: auto;" />
+      <img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" width="100%" alt="Happy Pixel GIF" style="border-radius: 12px; display: block;" />
     </td>
   </tr>
 </table>
