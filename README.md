@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThachY-23120411&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Thach Y's GitHub Stats" height="195" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachY-23120411&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachY-23120411&theme=tokyonight&hide_border=true&card_width=495" alt="Top Languages" height="195" />
 </p>
 
 ## 📈 My Contributions Graph
