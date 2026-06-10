@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Thach Y <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" /></h1>
 
 ---
@@ -7,13 +11,13 @@
 <table width="100%">
   <tr>
     <td valign="top" width="60%">
-      <ul>
-        <li>🎓 <b>3rd-year Software Engineering</b> student at <b>HCMUS</b> (VNU-HCM).</li>
-        <li>💡 Passionate about becoming a <b>Full-stack Developer</b> and building high-performance web applications.</li>
-        <li>💻 Experienced in building web platforms using <b>React, Next.js, Node.js (Express), and ASP.NET Core</b>.</li>
-        <li>🤖 Interested in integrating <b>AI Assistants</b> (Gemini API with Context Caching) and <b>Real-time communication</b> (Socket.io).</li>
-        <li>📫 How to reach me: <a href="mailto:thuy99507@gmail.com">thuy99507@gmail.com</a></li>
-        <li>💼 Check out my projects below or visit my GitHub repositories!</li>
+      <ul style="line-height: 1.8;">
+        <li style="margin-bottom: 12px;">🎓 <b>3rd-year Software Engineering</b> student at <b>HCMUS</b> (VNU-HCM).</li>
+        <li style="margin-bottom: 12px;">💡 Passionate about becoming a <b>Full-stack Developer</b> and building high-performance web applications.</li>
+        <li style="margin-bottom: 12px;">💻 Experienced in building web platforms using <b>React, Next.js, Node.js (Express), and ASP.NET Core</b>.</li>
+        <li style="margin-bottom: 12px;">🤖 Always excited about integrating <b>AI solutions</b> and <b>real-time features</b> to create interactive user experiences.</li>
+        <li style="margin-bottom: 12px;">📫 How to reach me: <a href="mailto:thuy99507@gmail.com">thuy99507@gmail.com</a></li>
+        <li style="margin-bottom: 12px;">💼 Check out my projects below or visit my GitHub repositories!</li>
       </ul>
     </td>
     <td valign="top" width="40%" align="center">
