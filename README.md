@@ -9,7 +9,7 @@
 <table width="100%">
   <tr>
     <td valign="top" width="60%">
-      <ul style="line-height: 1.8;">
+      <ul style="line-height: 1.8; margin-top: 10px;">
         <li style="margin-bottom: 12px;">🎓 <b>3rd-year Software Engineering</b> student at <b>HCMUS</b> (VNU-HCM).</li>
         <li style="margin-bottom: 12px;">💡 Passionate about becoming a <b>Full-stack Developer</b> and building high-performance web applications.</li>
         <li style="margin-bottom: 12px;">💻 Experienced in building web platforms using <b>React, Next.js, Node.js (Express), and ASP.NET Core</b>.</li>
@@ -18,9 +18,8 @@
         <li style="margin-bottom: 12px;">💼 Check out my projects below or visit my GitHub repositories!</li>
       </ul>
     </td>
-    <td valign="top" width="40%" align="center">
-      <!-- Thay link ảnh cá nhân của bạn vào src dưới đây khi đăng lên GitHub -->
-      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" width="280" alt="Developer Illustration" style="border-radius: 10px;" />
+    <td valign="middle" width="40%" align="center">
+      <img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" width="260" alt="Happy Pixel GIF" style="border-radius: 12px; display: block; margin: auto;" />
     </td>
   </tr>
 </table>
