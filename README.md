@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-<img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" align="right" width="350" alt="Happy Pixel GIF" style="border-radius: 12px; margin-left: 20px; display: inline-block;" />
+<img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" align="right" width="350" alt="Happy Pixel GIF" style="border-radius: 12px; margin-left: 40px; display: inline-block;" />
 
 - 🎓 **3rd-year Software Engineering** student at **HCMUS** (VNU-HCM).
 - 💡 Passionate about becoming a **Full-stack Developer** and building high-performance web applications.
@@ -60,8 +60,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThachY-23120411&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Thach Y's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachY-23120411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThachY-23120411&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Thach Y's GitHub Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachY-23120411&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
 </p>
 
 ## 📈 My Contributions Graph
