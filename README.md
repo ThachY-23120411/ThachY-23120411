@@ -6,9 +6,9 @@
 
 ## 💫 About Me
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td valign="top" width="60%" style="border: none; padding-right: 15px;">
       <ul style="line-height: 1.8; margin-top: 10px;">
         <li style="margin-bottom: 12px;">🎓 <b>3rd-year Software Engineering</b> student at <b>HCMUS</b> (VNU-HCM).</li>
         <li style="margin-bottom: 12px;">💡 Passionate about becoming a <b>Full-stack Developer</b> and building high-performance web applications.</li>
@@ -18,8 +18,8 @@
         <li style="margin-bottom: 12px;">💼 Check out my projects below or visit my GitHub repositories!</li>
       </ul>
     </td>
-    <td valign="middle" width="40%" align="center">
-      <img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" width="100%" alt="Happy Pixel GIF" style="border-radius: 12px; display: block;" />
+    <td valign="middle" width="40%" style="border: none; padding: 0;" align="center">
+      <img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" width="100%" alt="Happy Pixel GIF" style="width: 100%; height: auto; display: block; border-radius: 8px; margin: 0; padding: 0;" />
     </td>
   </tr>
 </table>
