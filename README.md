@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-<img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" align="right" width="280" alt="Happy Pixel GIF" style="border-radius: 12px; margin-left: 20px; display: inline-block;" />
+<img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" align="right" width="350" alt="Happy Pixel GIF" style="border-radius: 12px; margin-left: 20px; display: inline-block;" />
 
 - 🎓 **3rd-year Software Engineering** student at **HCMUS** (VNU-HCM).
 - 💡 Passionate about becoming a **Full-stack Developer** and building high-performance web applications.
