@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thachy296&label=visitors&color=0e75b6&style=flat-square" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ThachY-23120411&label=visitors&color=0e75b6&style=flat-square" alt="visitors" />
 </p>
 
 ## 💫 About Me
@@ -101,14 +101,14 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thachy296&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Thach Y's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachy296&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThachY-23120411&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Thach Y's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachY-23120411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ## 📈 My Contributions Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thachy296&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0d1117&title_color=58a6ff&hide_border=true" alt="Thach Y's Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThachY-23120411&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0d1117&title_color=58a6ff&hide_border=true" alt="Thach Y's Contribution Graph" width="100%" />
 </p>
 
 ---
