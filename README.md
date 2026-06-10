@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi,%20I'm%20Thach%20Y%20👋&fontSize=45&fontAlign=50&fontAlignY=35&animation=twinkle" width="100%" />
 </p>
-
-<h1 align="center">Hi, I'm Thach Y <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" /></h1>
 
 ---
 
