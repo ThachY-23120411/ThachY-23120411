@@ -6,23 +6,16 @@
 
 ## 💫 About Me
 
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td valign="top" width="60%" style="border: none; padding-right: 15px;">
-      <ul style="line-height: 1.8; margin-top: 10px;">
-        <li style="margin-bottom: 12px;">🎓 <b>3rd-year Software Engineering</b> student at <b>HCMUS</b> (VNU-HCM).</li>
-        <li style="margin-bottom: 12px;">💡 Passionate about becoming a <b>Full-stack Developer</b> and building high-performance web applications.</li>
-        <li style="margin-bottom: 12px;">💻 Experienced in building web platforms using <b>React, Next.js, Node.js (Express), and ASP.NET Core</b>.</li>
-        <li style="margin-bottom: 12px;">🤖 Always excited about integrating <b>AI solutions</b> and <b>real-time features</b> to create interactive user experiences.</li>
-        <li style="margin-bottom: 12px;">📫 How to reach me: <a href="mailto:thuy99507@gmail.com">thuy99507@gmail.com</a></li>
-        <li style="margin-bottom: 12px;">💼 Check out my projects below or visit my GitHub repositories!</li>
-      </ul>
-    </td>
-    <td valign="middle" width="40%" style="border: none; padding: 0;" align="center">
-      <img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" width="100%" alt="Happy Pixel GIF" style="width: 100%; height: auto; display: block; border-radius: 8px; margin: 0; padding: 0;" />
-    </td>
-  </tr>
-</table>
+<img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" align="right" width="280" alt="Happy Pixel GIF" style="border-radius: 12px; margin-left: 20px; display: inline-block;" />
+
+- 🎓 **3rd-year Software Engineering** student at **HCMUS** (VNU-HCM).
+- 💡 Passionate about becoming a **Full-stack Developer** and building high-performance web applications.
+- 💻 Experienced in building web platforms using **React, Next.js, Node.js (Express), and ASP.NET Core**.
+- 🤖 Always excited about integrating **AI solutions** and **real-time features** to create interactive user experiences.
+- 📫 How to reach me: [thuy99507@gmail.com](mailto:thuy99507@gmail.com)
+- 💼 Check out my projects below or visit my GitHub repositories!
+
+<br clear="right" />
 
 ---
 
