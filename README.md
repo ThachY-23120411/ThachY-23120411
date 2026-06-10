@@ -1,19 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi,%20I'm%20Thach%20Y%20👋&fontSize=45&fontAlign=50&fontAlignY=35&animation=twinkle" width="100%" />
-</p>
+<h1 align="center">Hi, I'm Thach Y <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ---
 
 ## 💫 About Me
 
-<img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" align="right" width="350" alt="Happy Pixel GIF" style="border-radius: 12px; margin-left: 40px; display: inline-block;" />
+<img src="https://res.cloudinary.com/dxobhrpwe/image/upload/v1781093601/Happy_Pixel_GIF_by_SMOL_umjwpq.gif" align="right" width="350" alt="Happy Pixel GIF" hspace="35" vspace="5" style="border-radius: 12px;" />
 
-- 🎓 **3rd-year Software Engineering** student at **HCMUS** (VNU-HCM).
-- 💡 Passionate about becoming a **Full-stack Developer** and building high-performance web applications.
-- 💻 Experienced in building web platforms using **React, Next.js, Node.js (Express), and ASP.NET Core**.
-- 🤖 Always excited about integrating **AI solutions** and **real-time features** to create interactive user experiences.
-- 📫 How to reach me: [thuy99507@gmail.com](mailto:thuy99507@gmail.com)
-- 💼 Check out my projects below or visit my GitHub repositories!
+- 🎓 **3rd-year SE student** at **HCMUS**.
+- 💡 Aiming to become a **Full-stack Developer**.
+- 💻 Tech Stack: **React, Next.js, Node.js, and .NET**.
+- 🤖 Enjoy learning & building software.
+- 📫 Email: [thuy99507@gmail.com](mailto:thuy99507@gmail.com)
+- 💼 Check out my projects below!
 
 <br clear="right" />
 
@@ -25,6 +23,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -60,9 +59,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThachY-23120411&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Thach Y's GitHub Stats" width="495" height="225" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThachY-23120411&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Thach Y's GitHub Stats" width="390" height="175" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachY-23120411&theme=tokyonight&hide_border=true&card_width=495" alt="Top Languages" width="495" height="225" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachY-23120411&theme=tokyonight&hide_border=true&card_width=390" alt="Top Languages" width="390" height="175" />
 </p>
 
 ## 📈 My Contributions Graph
@@ -76,17 +75,5 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:thuy99507@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=thuy99507@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/share/15rwCPZd4VB/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
