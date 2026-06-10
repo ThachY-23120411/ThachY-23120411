@@ -10,16 +10,17 @@
     <td valign="top" width="60%">
       <h2>🚀 About Me</h2>
       <p>
-        I am a 3rd-year <b>Information Systems</b> student at <b>VNU-HCMUS</b>, dedicated to crafting high-performance architecture and scalable systems.
+        I am a 4th-year <b>Software Engineering</b> student at <b>VNU-HCMUS</b> with a cleared academic schedule, fully committed to driving impactful development workflows.
       </p>
       <ul>
-        <li>💻 <b>Fullstack Web Developer</b> with deep expertise in building modern web applications using Next.js, React, Node.js, and Express.</li>
-        <li>⚡ <b>Aspiring Data Engineer</b> focused on designing efficient data pipelines, ETL processes, and database optimizations.</li>
-        <li>🤖 <b>AI Enthusiast</b> experienced in building automated RAG Chatbots with document chunking pipelines and vector databases.</li>
-        <li>👥 Driven by a <b>Leadership mindset</b>, having successfully driven development workflows as a Frontend Team Lead in enterprise-level university projects.</li>
+        <li>💻 <b>Full-stack Web Developer</b> passionate about building robust, high-performance, and scalable web applications.</li>
+        <li>🛠️ Proficient in modern web ecosystems: <b>React, Next.js, Node.js (Express), and ASP.NET Core</b>.</li>
+        <li>🤖 Experienced in <b>AI Integration</b>, notably building custom chatbots utilizing the Google Gemini SDK with Context Caching to optimize performance.</li>
+        <li>⚡ Skilled in <b>Real-time Communication</b> architectures via Socket.io and secure authentication flows (JWT, OAuth 2.0).</li>
+        <li>👥 Proven <b>Team Lead</b> capabilities, managing task distributions, component structures, and deployment pipelines.</li>
       </ul>
       <p>
-        📫 <b>Let's collaborate:</b> <a href="mailto:thuy99507@gmail.com">thuy99507@gmail.com</a>
+        📫 <b>Let's connect:</b> <a href="mailto:thuy99507@gmail.com">thuy99507@gmail.com</a>
       </p>
     </td>
     <td valign="top" width="40%" align="center">
@@ -36,43 +37,46 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-### 📦 Frameworks & Libraries
+### 📦 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### ⚙️ Backend & AI Integration
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini_SDK-9B51E0?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-### 🗄️ Database Management & Services
+### 🗄️ Databases & ORMs
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white" />
 </p>
 
-### 🔧 Architecture & Engineering Tools
+### 🔧 Tools & DevOps Platforms
 <p align="left">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-34495E?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 ---
